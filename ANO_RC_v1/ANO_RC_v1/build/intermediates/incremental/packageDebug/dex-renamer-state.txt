@@ -1,0 +1,7 @@
+#Tue Nov 21 14:46:22 CST 2017
+base.0=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6e7c5d2c52d46e02529707343a9502350d112805
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78f6ed6267ade63251459a42b85685c13e45cc17\\classes.dex
+base.1=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78f6ed6267ade63251459a42b85685c13e45cc17
+file.0=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6e7c5d2c52d46e02529707343a9502350d112805\\classes.dex

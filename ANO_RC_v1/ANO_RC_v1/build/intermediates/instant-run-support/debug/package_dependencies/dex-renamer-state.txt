@@ -1,0 +1,4 @@
+#Tue Nov 21 14:41:52 CST 2017
+base.0=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_070c3b212a752da048e3b49ae64165e6d6b4c811
+renamed.0=classes.dex
+file.0=C\:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_070c3b212a752da048e3b49ae64165e6d6b4c811\\classes.dex

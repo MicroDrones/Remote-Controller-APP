@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_control.xml"
+    },
+    {
+        "merged": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_control.xml"
+    },
+    {
+        "merged": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_set.xml",
+        "source": "F:\\Users\\Wangjt\\Desktop\\EDA\\Code\\Android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_wifi_set.xml"
+    },
+    {
+        "merged": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_set.xml",
+        "source": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_wifi_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_control.xml"
+    },
+    {
+        "merged": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_set.xml",
+        "source": "F:\\android\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_wifi_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\shilaixi\\Desktop\\ANO_RC_v1\\ANO_RC_v1\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
